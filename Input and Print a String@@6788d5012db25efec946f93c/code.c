@@ -2,8 +2,8 @@
 
 int main()
 {
-    int number;
-    scanf("%e",&number);
-    printf("You entered: %e\n",number);
+    char str[100];
+    scanf("%s",&str);
+    printf("You entered: %s\n",str);
     return 0;
 }
