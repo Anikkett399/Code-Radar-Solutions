@@ -4,7 +4,7 @@ int main()
 {
     int c;
     scanf("%d",&c);
-    if(c%50==0 && c%11==0)
+    if(c%5==0 && c%11==0)
     {
         printf("Divisible");
     }
