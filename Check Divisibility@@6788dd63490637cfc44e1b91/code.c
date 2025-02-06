@@ -9,8 +9,8 @@ int main()
         printf("Divisible");
     }
     else
-    (
+    {
         printf("Not Divisible");
-    )
+    }
     return 0;
 }    
