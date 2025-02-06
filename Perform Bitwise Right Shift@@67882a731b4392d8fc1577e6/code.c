@@ -6,5 +6,5 @@ int main()
     scanf("%d %d",&a,&b);
     c=>>b;
     printf("%d",c);
-    return 0
+    return 0;
 }
