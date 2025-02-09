@@ -10,9 +10,8 @@ int main()
         
     }
     else if (a==b || b==c || a==c)
-
     {
-        printf("Isosceles\n")
+        printf("Isosceles\n");
     }
     else
     {
