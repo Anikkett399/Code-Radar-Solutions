@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
-[
+{
     int a,b,c;
     scanf("%d %d %d", &a,&b,&c);
     if ((a + >c) && (a+ c > b) && (b + c > a))
@@ -12,4 +12,4 @@ int main()
         printf("Invalid\n");
     }
     return 0;
-]
+}
