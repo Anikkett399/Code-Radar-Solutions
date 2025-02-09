@@ -13,7 +13,7 @@ int main()
     for(int i=31;i>=0;i--)
     {
         if((num>>>i)&1)
-        break;
+           break;
         count++;
     }
     printf("%d\n",count);
