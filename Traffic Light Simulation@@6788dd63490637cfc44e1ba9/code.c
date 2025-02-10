@@ -2,7 +2,7 @@
 
 int main()
 {
-    chae signal;
+    char signal;
     scanf("%c",&signal);
     switch(signal)
     {
