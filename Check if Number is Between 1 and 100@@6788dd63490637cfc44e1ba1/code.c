@@ -10,7 +10,7 @@ int main()
     }
     else
     {
-        printf("Our of Range");
+        printf("Our of Range\n");
     }
     return 0;
 }
