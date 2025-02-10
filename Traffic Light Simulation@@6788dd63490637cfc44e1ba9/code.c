@@ -7,7 +7,7 @@ int main()
     switch(signal)
     {
         case'R':
-        printf("stop\n");
+        printf("Stop\n");
         break;
         case:'G':
         printf("Go\n");
